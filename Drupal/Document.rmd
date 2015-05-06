@@ -1,0 +1,1 @@
+Translating strings in JavaScript (https://www.drupal.org/node/323109)
